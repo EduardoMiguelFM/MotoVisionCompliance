@@ -57,9 +57,9 @@ Aqui estão consolidados os artefatos e evidências requeridos na Sprint 4.
 ├── README.md                        # Este documento
 ├── Link vídeo testes
 ├── Link AzureDevOps
-└── postman/
-    ├── MotoVision.postman_collection.json
-    └── MotoVision.postman_environment.json
+├── MotoVision.postman_collection.json
+└── MotoVision.postman_environment.json
+
 ```
 
 ---
