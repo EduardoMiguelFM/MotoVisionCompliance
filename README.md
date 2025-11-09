@@ -32,9 +32,7 @@ Aqui estão consolidados os artefatos e evidências requeridos na Sprint 4.
 | Azure Boards – Test Plans                  | https://dev.azure.com/RM555871/Sprint%204%20–%20Azure%20DevOps                               |
 | Vídeo – Configuração & Execução dos testes | https://youtu.be/<id-do-video>                                                               |
 | Aplicação (Azure)                          | https://motovision-api-8077.azurewebsites.net                                                |
-| Swagger                                    | https://motovision-api-8077.azurewebsites.net/swagger-ui.html                                |
-| Coleção Postman                            | [`postman/MotoVision.postman_collection.json`](postman/MotoVision.postman_collection.json)   |
-| Environment Postman                        | [`postman/MotoVision.postman_environment.json`](postman/MotoVision.postman_environment.json) |
+
 
 ---
 
