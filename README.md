@@ -30,7 +30,7 @@ Aqui estão consolidados os artefatos e evidências requeridos na Sprint 4.
 | Item                                       | Link                                                                                         |
 | ------------------------------------------ | -------------------------------------------------------------------------------------------- |
 | Azure Boards – Test Plans                  | https://dev.azure.com/RM555871/Sprint%204%20–%20Azure%20DevOps                               |
-| Vídeo – Configuração & Execução dos testes | https://youtu.be/<id-do-video>                                                               |
+| Vídeo – Configuração & Execução dos testes | https://youtu.be/Ll46Qfj8G_g                                                                 |
 | Aplicação (Azure)                          | https://motovision-api-8077.azurewebsites.net                                                |
 
 
